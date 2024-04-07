@@ -9,11 +9,11 @@ This is a small project for the react learning beginner's, to how to make a simp
 
     $ npm install
 
-*vite type script installion
+*vite type script Installation
 
     $ npm create .vite@latest
     
-*Some booststap installions
+*Some booststap Installation
 
     $ npm i react-router-dom bootstrap react-bootstrap
     $ npm i framer-motion react-anchor-link-smooth-scroll@1.0.12 @heroicons/react

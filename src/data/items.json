@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"Carengines",
+        "price":10.99,
+        "imgUrl":"/imgs/carengines.jpg"
+    },
+    {
+        "id":2,
+        "name":"Car",
+        "price":10.99,
+        "imgUrl":"/imgs/cars.jpg"
+    },
+    {
+        "id":3,
+        "name":"Book",
+        "price":10.99,
+        "imgUrl":"/imgs/books.jpg"
+    },
+    {
+        "id":4,
+        "name":"Computer",
+        "price":12.99,
+        "imgUrl":"/imgs/computer.jpg"
+    },
+    {
+        "id":5,
+        "name":"Bannana",
+        "price":55.99,
+        "imgUrl":"/imgs/bannana.jpg"
+    }
+
+]
